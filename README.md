@@ -5,7 +5,7 @@ A test project for GITLOADER
 ## Installation
 
 ```bash
-git clone https://github.com/$(gh api user --jq .login)/test-project.git
+git clone https/github.com/$(gh api user --jq .login)/test-project.git
 cd test-project
 ```
 
